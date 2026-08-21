@@ -11,8 +11,8 @@ are live with real users. Most of it is private client work, so the write-ups li
 I've also contracted at **Mercor** since 2025. I built the contractor bonus payment
 system on one of their larger projects, which sent weekly payouts over $100K, and have
 reviewed more than 1,000 pull requests for correctness, performance, and security. These
-days I design evaluation tasks that find where frontier models break on real software
-engineering work.
+days I design evaluation tasks as a software engineer that push the limits on frontier
+models.
 
 **Currently working with:** TypeScript · React · Python · Postgres · Supabase
 
