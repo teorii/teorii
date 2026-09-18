@@ -14,7 +14,7 @@ reviewed more than 1,000 pull requests for correctness, performance, and securit
 days I work as a software engineer designing evaluation tasks that push the limits of
 frontier models.
 
-**Currently working with:** TypeScript · React · Python · Postgres · Supabase
+**Currently mostly working with:** TypeScript · React · Python · Postgres
 
 [sethnijsmetcalf.com](https://sethnijsmetcalf.com) ·
 [LinkedIn](https://linkedin.com/in/seth-metcalf) ·
